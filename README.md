@@ -1,0 +1,1 @@
+<h2>Just an app</h2>
