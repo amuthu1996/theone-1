@@ -45,3 +45,7 @@ group :development do
   gem 'spring'
 end
   gem 'arduino_firmata'
+
+gem 'coap'
+
+gem 'httparty', '~> 0.13.7'
